@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaBasic/JavaBasic.iml" filepath="$PROJECT_DIR$/JavaBasic/JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/JavaSenior.iml" filepath="$PROJECT_DIR$/JavaSenior/JavaSenior.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Javasource_SGG.iml" filepath="$PROJECT_DIR$/.idea/Javasource_SGG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/collections-fk/collections-fk.iml" filepath="$PROJECT_DIR$/JavaSenior/collections-fk/collections-fk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/commonly-used-method/commonly-used-method.iml" filepath="$PROJECT_DIR$/JavaSenior/commonly-used-method/commonly-used-method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/dynamic-proxy/dynamic-proxy.iml" filepath="$PROJECT_DIR$/JavaSenior/dynamic-proxy/dynamic-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/enumerate-annotations/enumerate-annotations.iml" filepath="$PROJECT_DIR$/JavaSenior/enumerate-annotations/enumerate-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/genericity/genericity.iml" filepath="$PROJECT_DIR$/JavaSenior/genericity/genericity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/io-stream/io-stream.iml" filepath="$PROJECT_DIR$/JavaSenior/io-stream/io-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/java-thread/java-thread.iml" filepath="$PROJECT_DIR$/JavaSenior/java-thread/java-thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/java10-features/java10-features.iml" filepath="$PROJECT_DIR$/JavaSenior/java10-features/java10-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/java11-features/java11-features.iml" filepath="$PROJECT_DIR$/JavaSenior/java11-features/java11-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/java8-features/java8-features.iml" filepath="$PROJECT_DIR$/JavaSenior/java8-features/java8-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/java9-features/java9-features.iml" filepath="$PROJECT_DIR$/JavaSenior/java9-features/java9-features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/jdbc/jdbc.iml" filepath="$PROJECT_DIR$/JavaSenior/jdbc/jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/network-tcp-ip/network-tcp-ip.iml" filepath="$PROJECT_DIR$/JavaSenior/network-tcp-ip/network-tcp-ip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSenior/reflection/reflection.iml" filepath="$PROJECT_DIR$/JavaSenior/reflection/reflection.iml" />
+    </modules>
+  </component>
+</project>
